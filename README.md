@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋
+<h1 align="center">Hi
+
+ 
 
 
+![artup-shark-animation_orig](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJ3Njh2eWtoZnA5a2w1YmFjaXF3cXY3OHExczR0d3VqcmMxY3hwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fUpVxgPx4VEfXWNh4K/giphy-downsized-large.gif)
 
-![artup-shark-animation_orig](https://user-images.githubusercontent.com/80313913/202915382-148ffd67-ec65-4459-874a-ae5801a1ad08.gif)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -10,4 +13,12 @@
 <a href="https://linkedin.com/in/buseuysaler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="buseuysaler" height="30" width="40" /></a>
 <a href="https://medium.com/@buseuys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@buseuys" height="30" width="40" /></a>
 </p>
+
+
+
+![artup-shark-animation_orig](https://featuredcreature.com/wp-content/uploads/2012/11/tumblr_lxwvjoYZok1qm6msjo1_500.gif)
+
+
+
+
 

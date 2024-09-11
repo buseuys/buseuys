@@ -16,7 +16,6 @@
 
 
 
-![artup-shark-animation_orig](https://featuredcreature.com/wp-content/uploads/2012/11/tumblr_lxwvjoYZok1qm6msjo1_500.gif)
 
 
 

@@ -14,6 +14,7 @@
 <a href="https://medium.com/@buseuys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@buseuys" height="30" width="40" /></a>
 </p>
 
+![snake animation](https://github.com/<buseuys>/<buseuys>/blob/output/github-contribution-grid-snake2.svg)
 
 
 
